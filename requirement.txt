@@ -1,0 +1,5 @@
+pandas
+ipykernel
+nltk
+numpy
+
